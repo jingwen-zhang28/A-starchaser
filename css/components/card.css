@@ -1,0 +1,21 @@
+.card {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+  border-radius: 5px;  	
+  border-bottom: 18px;
+  text-align: center;
+}
+
+.card img {
+	width: 70px;
+	border-radius: 3px;
+}
+
+
+.card h3 {
+	font-size: 20px;
+	padding-left: 3px;
+}

@@ -1,0 +1,11 @@
+.avatar {
+	border-radius: 50%; 
+}
+
+.avatar-display {
+	display: flex;
+	justify-content:space-around;
+	align-items: center;
+	flex-basis: 300px;
+	margin: 0px 10px;
+}
